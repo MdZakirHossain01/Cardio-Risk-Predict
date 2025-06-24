@@ -1117,8 +1117,6 @@ if st.button("Predict"):
     )
 
 
-# #### app link
-# https://huggingface.co/spaces/Zakir017819/CVD_Predict001
 
 # In[ ]:
 
